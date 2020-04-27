@@ -46,7 +46,7 @@ docker ps
 yarn dev
 ```
 
-# 项目截图
+<!-- # 项目截图
 
 
 ### 博客首页
@@ -57,10 +57,10 @@ yarn dev
 ### 博客管理后台
 <center>
 <img src="https://daoket.github.io/static/admin.png"/>
-<center/>
+<center/> -->
 
 ## License
 
 [MIT](http://opensource.org/licenses/MIT)
 
-Copyright (c) 2018-present, daoket
+Copyright (c) 2020-present, daoket
